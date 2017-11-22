@@ -8,7 +8,7 @@ namespace Rdn_Dev
     {
         /* definitions des classes necessaires aux reseaux de neuronnes pour leur construction */
 
-        private const double KA = 0.746;  // pour l'instant cette constante est au pif a ameliorer
+        private const double KA = 0.746;  // pour l'instant cette constante est au pif à ameliorer
         private const int MAXNEURONNE = 150; // le nombre maximal qu'une couche peut avoir de neuronne
         private const double MU = 0.3;
         private const double NU = 0.1;
